@@ -5,7 +5,7 @@
 <h1 align="center">Hi there 👋, I'm Sourajyoti Choudhury</h1>
 <p align="center">
   <a href="https://github.com/Sourajyoti-03">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3399FF&center=true&width=435&lines=Passionate+Developer+from+India;Always+Learning+%26+Creating;Python+%7C+Java+%7C+SQL" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3399FF&center=true&width=435&lines=Passionate+Developer+from+India;Always+Learning+%26+Creating;Python+%7C+Java+%7C+React+%7C+Mongodb" alt="Typing SVG" />
   </a>
 </p>
 
@@ -65,9 +65,3 @@
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourajyoti-03&theme=radical" alt="GitHub Streak" />
 </div>
-
----
-
-### 🐍 Watch my contribution graph get eaten
-
-![snake gif](https://github.com/Sourajyoti-03/Sourajyoti-03/blob/output/github-contribution-grid-snake.gif)
