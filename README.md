@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-banner-image-url.com/banner.png" alt="Banner Image">
+  <img src="[https://your-banner-image-url.com/banner.png](https://github.com/Sourajyoti-03/Sourajyoti-03/blob/main/github-header-image.png?raw=true)" alt="Banner Image">
 </div>
 
 <h1 align="center">Hi there 👋, I'm Sourajyoti Choudhury</h1>
