@@ -57,14 +57,8 @@
 
 ---
 
-## 📊 GitHub Summary
+## 📊 GitHub Metrics
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourajyoti-03&theme=radical)
-
-![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sourajyoti-03&theme=radical)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sourajyoti-03&theme=radical)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sourajyoti-03&theme=radical)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sourajyoti-03&theme=radical)
+![Metrics](https://metrics.lecoq.io/sourajyoti-03?template=classic&languages=1&isocalendar=1&achievements=1&repositories=1&lines=1&followup=1&config.timezone=Asia%2FKolkata)
 
 
