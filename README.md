@@ -59,6 +59,20 @@
 
 ## 📊 GitHub Metrics
 
-![Metrics](https://metrics.lecoq.io/sourajyoti-03?template=classic&languages=1&isocalendar=1&achievements=1&repositories=1&lines=1&followup=1&config.timezone=Asia%2FKolkata)
+## 👨‍💻 GitHub Overview
+
+- 🎓 MCA Graduate  
+- 🐍 Python | Machine Learning | Backend Development  
+- 🔍 Actively seeking Software / ML roles  
+- 📍 India  
+
+---
+
+## 🧾 GitHub Profile
+
+![Profile Views](https://komarev.com/ghpvc/?username=sourajyoti-03&style=flat-square)
+![Followers](https://img.shields.io/github/followers/sourajyoti-03?style=flat-square)
+![Stars](https://img.shields.io/github/stars/sourajyoti-03?style=flat-square)
+
 
 
