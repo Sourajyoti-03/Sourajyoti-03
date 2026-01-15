@@ -57,22 +57,14 @@
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 GitHub Summary
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourajyoti-03&layout=compact&langs_count=8&theme=radical"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sourajyoti-03&show_icons=true&theme=radical"
-    height="165"
-  />
-</p>
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourajyoti-03&theme=radical)
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sourajyoti-03&theme=radical"
-  />
-</p>
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sourajyoti-03&theme=radical)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sourajyoti-03&theme=radical)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sourajyoti-03&theme=radical)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sourajyoti-03&theme=radical)
+
 
